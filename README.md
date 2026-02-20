@@ -8,3 +8,4 @@
 - Exploring deployment process
 - Understanding Layer 2 scaling
 - Testing commit workflow
+base snapshot taken 
