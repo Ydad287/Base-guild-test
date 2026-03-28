@@ -25,3 +25,4 @@ Improve README content structure
 Add usage instructions for contract
 Update installation guidelines
  Enhance documentation readability
+ Add comments to smart contract code
