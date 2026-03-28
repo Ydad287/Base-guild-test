@@ -21,3 +21,4 @@ Add test case outline in scripts
 Clarify variable naming in contract
 Expand NFT contract example
 Update Base deployment guide
+Improve README content structure
