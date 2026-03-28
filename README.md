@@ -10,3 +10,4 @@
 - Testing commit workflow
 base snapshot taken 
 base app testing
+farcaster cummit
