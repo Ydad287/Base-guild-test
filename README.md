@@ -31,3 +31,4 @@ Optimize function naming conventions
 Add basic project description
 Improve markdown formatting
 Update project title and headers
+Update contract deployment steps
