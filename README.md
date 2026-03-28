@@ -27,3 +27,4 @@ Update installation guidelines
  Enhance documentation readability
  Add comments to smart contract code
 Refactor contract logic for clarity
+Optimize function naming conventions
