@@ -12,3 +12,4 @@ base snapshot taken
 base app testing
 farcaster cummit
 jasse base
+Update project overview in README
