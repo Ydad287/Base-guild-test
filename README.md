@@ -13,3 +13,4 @@ base app testing
 farcaster cummit
 jasse base
 Update project overview in README
+Refine smart contract structure
