@@ -29,3 +29,4 @@ Update installation guidelines
 Refactor contract logic for clarity
 Optimize function naming conventions
 Add basic project description
+Improve markdown formatting
