@@ -18,3 +18,4 @@ Add detailed deployment steps
 Improve README formatting for clarity
 Update contract function documentation
 Add test case outline in scripts
+Clarify variable naming in contract
