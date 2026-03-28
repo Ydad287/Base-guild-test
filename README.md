@@ -1,8 +1,5 @@
-
-## Update 1
-
-### Base Guild Progress
-
+ Base Guild Progress
+base devs
 - Setting up repository
 - Learning Base smart contracts
 - Exploring deployment process
