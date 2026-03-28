@@ -15,3 +15,4 @@ jasse base
 Update project overview in README
 Refine smart contract structure
 Add detailed deployment steps
+Improve README formatting for clarity
