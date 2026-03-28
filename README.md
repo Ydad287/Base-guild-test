@@ -22,3 +22,4 @@ Clarify variable naming in contract
 Expand NFT contract example
 Update Base deployment guide
 Improve README content structure
+Add usage instructions for contract
