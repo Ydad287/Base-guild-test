@@ -28,3 +28,4 @@ Update installation guidelines
  Add comments to smart contract code
 Refactor contract logic for clarity
 Optimize function naming conventions
+Add basic project description
