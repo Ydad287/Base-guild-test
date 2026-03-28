@@ -32,3 +32,4 @@ Add basic project description
 Improve markdown formatting
 Update project title and headers
 Update contract deployment steps
+ Add example usage section
